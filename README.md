@@ -33,7 +33,8 @@ black piece is next to the white piece; e.g. `V` is a black bishop where
 light square.
 
 Example documents with the Chess, Embassy Chess, and Modern Carrera Chess
-starting positions are included.
+starting positions are included.  Both Word 2003 and RTF (rich text format)
+versions of the documents are included.
 
 # Install
 
@@ -44,11 +45,14 @@ Install the file `ChessMeridaFairy.ttf` so that it is a font one can use.
 * `CHESSMERI.DOC` The original document for using Chess Merida
 * `COPYING.md` A note that the font is “freeware”
 * `Chess-start.doc` A document with the standard Chess starting position.
+* `Chess-start.rtf` A document with the standard Chess starting position.
 * `ChessMeridaFairy.ttf` The font to install
 * `Embassy-Chess-start.doc` The Embassy Chess starting position
+* `Embassy-Chess-start.rtf` The Embassy Chess starting position
 * `LEEME__D.TXT` The original Spanish language README
 * `MERIFONT.TTF` The original Chess Merida font
 * `Modern-Carrera-start.doc` The Modern Carrera starting position
+* `Modern-Carrera-start.rtf` The Modern Carrera starting position
 * `README.md` This README file
 * `README_D.TXT` The original English language README
 
