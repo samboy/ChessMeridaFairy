@@ -12,14 +12,17 @@ Caulixtla009Serif).
 * H is a black upsidedown knight
 * P is a white pawn
 * O (the letter) is a black pawn
-* RNBQK are the expected white pieces
+* RNBQK are the expected white pieces (as per English algebraic notation)
 * TMVWL are the corresponding black pieces
+* A `+` is an empty black square
+* A ` ` (blank space) is an empty white square
 
 Uppercase pieces are on black squares; lowercase pieces are on white 
 squares.
 
-This allows games with fairy chess pieces, such as Embassy Chess, Grand 
-Chess, or Modern Carrera, to have their positions printed out in diagrams.
+This modifed version of Chess Merida allows games with fairy chess pieces, 
+such as Embassy Chess, Grand Chess, or Modern Carrera, to have their 
+positions printed out in diagrams.
 
 The following text looks like the starting position for Modern Carrera 
 Chess (where an upsidedown rook or bishop also has the knight’s move) in
