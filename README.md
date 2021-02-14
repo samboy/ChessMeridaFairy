@@ -1,11 +1,22 @@
-This is a version of the Chess Merida font with Fairy pieces added:
+This is a version of the Chess Merida font with Fairy pieces added.
+To see this font in use, view Demo.pdf (normal lettering is 
+Caulixtla009Serif).
+
+# The chess pieces
 
 * A is a white upsidedown bishop
 * S is a black upsidedown bishop
-* D is a white upsidedown rook
-* F is a black upsidedown rook
+* D is a modified white upsidedown rook
+* F is a modified black upsidedown rook
 * G is a white upsidedown knight
 * H is a black upsidedown knight
+* P is a white pawn
+* O (the letter) is a black pawn
+* RNBQK are the expected white pieces
+* TMVWL are the corresponding black pieces
+
+Uppercase pieces are on black squares; lowercase pieces are on white 
+squares.
 
 This allows games with fairy chess pieces, such as Embassy Chess, Grand 
 Chess, or Modern Carrera, to have their positions printed out in diagrams.
@@ -47,6 +58,7 @@ Install the file `ChessMeridaFairy.ttf` so that it is a font one can use.
 * `Chess-start.doc` A document with the standard Chess starting position.
 * `Chess-start.rtf` A document with the standard Chess starting position.
 * `ChessMeridaFairy.ttf` The font to install
+* `Demo.pdf` The font in use (normal letters are Caulixtla009Serif)
 * `Embassy-Chess-start.doc` The Embassy Chess starting position
 * `Embassy-Chess-start.rtf` The Embassy Chess starting position
 * `LEEME__D.TXT` The original Spanish language README
