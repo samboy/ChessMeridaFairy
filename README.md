@@ -71,3 +71,9 @@ Install the file `ChessMeridaFairy.ttf` so that it is a font one can use.
 * `README.md` This README file
 * `README_D.TXT` The original English language README
 
+# See also
+
+* https://github.com/xeyownt/chess_merida_unicode
+
+This is another Chess Merida variant made by esteemed cryptography
+researcher Michael Peeters.
