@@ -77,3 +77,8 @@ Install the file `ChessMeridaFairy.ttf` so that it is a font one can use.
 
 This is another Chess Merida variant made by esteemed cryptography
 researcher Michael Peeters.
+
+* https://github.com/samboy/OpenChessFontFairy
+
+This is a compatible chess diagram font with a spelled out Creative
+Commons license.
