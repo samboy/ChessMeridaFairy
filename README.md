@@ -82,3 +82,7 @@ researcher Michael Peeters.
 
 This is a compatible chess diagram font with a spelled out Creative
 Commons license.
+
+* https://github.com/samboy/ChessGraphics
+
+Three different public domain chess diagram fonts.
