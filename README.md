@@ -2,6 +2,10 @@ This is a version of the Chess Merida font with Fairy pieces added.
 To see this font in use, view Demo.pdf (normal lettering is 
 Caulixtla009Serif).
 
+The file `ChessMeridaFairRev.ttf` is a slight revision to the font:
+The White queen has fewer lines in the base of her crown, making her
+lighter and less likely to look like a Black queen.
+
 # The chess pieces
 
 * A is a white upsidedown bishop
